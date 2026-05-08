@@ -243,3 +243,11 @@ T2 Support Engineer · [proxy-cheap.com](https://proxy-cheap.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
 
 </div>
+
+---
+<div align="center">
+
+### 🛡️ Visitor Insights
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ArchangelAzazil-proxy-guide&label=TOTAL%20VISITS&labelColor=%23000000&countColor=%23263238&style=flat)
+
+</div>
